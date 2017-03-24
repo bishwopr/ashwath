@@ -8,7 +8,7 @@
 # Site settings
 title: Tech Kanchha
 description: > # this means to ignore newlines until "baseurl:"
-Tech kanchha Knows all about Technology 
+"Tech kanchha Knows all about Technology" 
 baseurl: "/ashwath" # the subpath of your site, e.g. /blog
 url: "http://webjeda.com"
 permalink: :title/
