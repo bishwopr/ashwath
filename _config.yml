@@ -7,7 +7,6 @@
 
 # Site settings
 title: Tech Kanchha
-description: >"Tech kanchha Knows all about Technology" 
 baseurl: "/ashwath" # the subpath of your site, e.g. /blog
 url: "http://webjeda.com"
 permalink: :title/
